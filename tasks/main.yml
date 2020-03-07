@@ -1,8 +1,12 @@
-- name: install packages
-  with_items:
+# Standards: 0.1
+---
+- name: Install required packages
+  loop:
     - golang-cfssl
   package:
-    name: '{{ item }}'
+    name: "{{ item }}"
     state: present
   tags:
     - cfssl
+
+...
