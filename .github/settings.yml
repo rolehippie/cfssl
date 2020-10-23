@@ -1,7 +1,7 @@
 ---
 repository:
   name: cfssl
-  description: Ansible role for cfssl
+  description: Ansible role to install cfssl for self-signed certificates
   topics: ansible, role, ansible-role
 
   private: false
