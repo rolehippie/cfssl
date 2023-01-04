@@ -3,6 +3,6 @@
 - name: Converge
   hosts: all
   roles:
-    - role: cfssl
+    - role: rolehippie.cfssl
 
 ...
