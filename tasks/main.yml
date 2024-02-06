@@ -2,7 +2,7 @@
 - name: Install required packages
   loop:
     - golang-cfssl
-  package:
+  ansible.builtin.package:
     name: "{{ item }}"
     state: present
   tags:
