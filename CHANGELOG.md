@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rolehippie/cfssl/compare/v2.0.0...v2.1.0) (2025-09-18)
+
+
+### Features
+
+* apply new repo structure and update linting ([8dcf26c](https://github.com/rolehippie/cfssl/commit/8dcf26cb381c9732da874bb910bb44bc1c377941))
+
 ## [2.0.0](https://github.com/rolehippie/cfssl/compare/v1.0.0...v2.0.0) (2024-02-12)
 
 
