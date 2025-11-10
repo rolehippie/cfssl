@@ -13,7 +13,7 @@ Ansible role to install cfssl for self-signed certificates.
 
 Building and improving this Ansible role have been sponsored by my current and previous employers like **[Cloudpunks GmbH](https://cloudpunks.de)** and **[Proact Deutschland GmbH](https://www.proact.eu)**.
 
-## Table of content
+## Table of contents
 
 - [Requirements](#requirements)
 - [Discovered Tags](#discovered-tags)
