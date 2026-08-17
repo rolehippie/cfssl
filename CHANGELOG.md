@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.0](https://github.com/rolehippie/cfssl/compare/v2.3.0...v2.4.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#57](https://github.com/rolehippie/cfssl/issues/57)) ([ce7ed20](https://github.com/rolehippie/cfssl/commit/ce7ed20ec671abbdf30c0873345529eb95d46dd6))
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#58](https://github.com/rolehippie/cfssl/issues/58)) ([1de276d](https://github.com/rolehippie/cfssl/commit/1de276d50953e050b47c57edc5373f0f3f06da75))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#55](https://github.com/rolehippie/cfssl/issues/55)) ([24f9753](https://github.com/rolehippie/cfssl/commit/24f9753d035d3195cdb5e85f05b9610a33f6d330))
+* **patch:** update dependency pre-commit to v4.6.2 ([#56](https://github.com/rolehippie/cfssl/issues/56)) ([f63f272](https://github.com/rolehippie/cfssl/commit/f63f2720e9310aff05360bb3f69691c9463a527a))
+
 ## [2.3.0](https://github.com/rolehippie/cfssl/compare/v2.2.0...v2.3.0) (2026-08-10)
 
 ### Dependencies
