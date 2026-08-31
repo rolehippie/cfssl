@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.4.1](https://github.com/rolehippie/cfssl/compare/v2.4.0...v2.4.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#59](https://github.com/rolehippie/cfssl/issues/59)) ([c6ee7d3](https://github.com/rolehippie/cfssl/commit/c6ee7d39b63b64118b394e52c7337b8825be31f5))
+
 ## [2.4.0](https://github.com/rolehippie/cfssl/compare/v2.3.0...v2.4.0) (2026-08-17)
 
 ### Dependencies
