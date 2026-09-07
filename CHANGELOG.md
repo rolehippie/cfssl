@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.0](https://github.com/rolehippie/cfssl/compare/v2.4.1...v2.5.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([9a459e6](https://github.com/rolehippie/cfssl/commit/9a459e6b8ae39c036aa6c0dfc7c32f18397fe545))
+
 ## [2.4.1](https://github.com/rolehippie/cfssl/compare/v2.4.0...v2.4.1) (2026-08-31)
 
 ### Dependencies
